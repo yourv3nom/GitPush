@@ -1,0 +1,1 @@
+GitPush is a script that will auto upload script to GitHub for you. Just enter the directories correctly or this can fuck the script up.
